@@ -1,7 +1,7 @@
 {
   "app": "Lexitor Office",
   "latest": "1.0.1",
-  "url": "https://github.com/marceloburity/lexitor-updates/releases/download/v1.0.9/Lexitor_Setup_1.0.9.exe",
-  "sha256": "sha256:4f9e804077c642f905757ef4d836b79243743cb6b6741d4b40172d3529871033",
+  "url": "https://github.com/marceloburity/lexitor-office/releases/download/v1.01.1/LexitorOffice_Setup_1.0.1.exe",
+  "sha256": "sha256:5dbd6fac4f6a6a61b6e35c2ad603148427338548bf411cb0166a1d7ba6f0ad1b",
   "notes": "Versão 1.0.1: melhorias e correções."
 }
